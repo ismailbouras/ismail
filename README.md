@@ -1,3 +1,6 @@
 # ismail
-wa khdem asat ra medertina
+cp 
+cp -r 
+mv 
+
 
